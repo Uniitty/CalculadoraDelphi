@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="Calculadroa.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="26"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\calc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Calc"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="32"/>
+        <CursorPos X="43" Y="40"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2773"/>
+        <CursorPos Y="2864"/>
+        <UsageCount Value="9"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="680"/>
+        <CursorPos X="11" Y="696"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="19" HistoryIndex="18">
+      <Position1>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="72" Column="62" TopLine="72"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="78" Column="3" TopLine="100"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="154" Column="3" TopLine="151"/>
+      </Position3>
+      <Position4>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="193" Column="13" TopLine="172"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="25" Column="5" TopLine="150"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="160" Column="12" TopLine="150"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="170" Column="12" TopLine="151"/>
+      </Position7>
+      <Position8>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="157" Column="80" TopLine="150"/>
+      </Position8>
+      <Position9>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="159" Column="12" TopLine="149"/>
+      </Position9>
+      <Position10>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="163" Column="12" TopLine="153"/>
+      </Position10>
+      <Position11>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="49" Column="2" TopLine="47"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="157" TopLine="153"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="41" Column="5" TopLine="32"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="49" Column="5" TopLine="40"/>
+      </Position14>
+      <Position15>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="9" Column="12"/>
+      </Position15>
+      <Position16>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="77" TopLine="62"/>
+      </Position16>
+      <Position17>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="164" Column="15" TopLine="154"/>
+      </Position17>
+      <Position18>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="156" Column="14" TopLine="146"/>
+      </Position18>
+      <Position19>
+        <Filename Value="..\calc.pas"/>
+        <Caret Line="155" Column="10" TopLine="146"/>
+      </Position19>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

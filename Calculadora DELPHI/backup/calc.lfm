@@ -1,0 +1,208 @@
+object Form2: TForm2
+  Left = 676
+  Height = 308
+  Top = 199
+  Width = 356
+  Caption = 'Calculadora Delphi'
+  ClientHeight = 308
+  ClientWidth = 356
+  KeyPreview = True
+  OnCreate = FormCreate
+  OnKeyPress = FormKeyPress
+  LCLVersion = '1.8.4.0'
+  object Visor: TEdit
+    Left = 16
+    Height = 23
+    Top = 56
+    Width = 320
+    ReadOnly = True
+    TabOrder = 0
+  end
+  object Um: TButton
+    Left = 17
+    Height = 44
+    Top = 88
+    Width = 58
+    Caption = '1'
+    OnClick = UmClick
+    TabOrder = 1
+  end
+  object Dois: TButton
+    Left = 80
+    Height = 44
+    Top = 88
+    Width = 58
+    Caption = '2'
+    OnClick = UmClick
+    TabOrder = 2
+  end
+  object Tres: TButton
+    Left = 144
+    Height = 44
+    Top = 88
+    Width = 58
+    Caption = '3'
+    OnClick = UmClick
+    TabOrder = 3
+  end
+  object Quatro: TButton
+    Left = 16
+    Height = 44
+    Top = 136
+    Width = 58
+    Caption = '4'
+    OnClick = UmClick
+    TabOrder = 4
+  end
+  object Cinco: TButton
+    Left = 80
+    Height = 44
+    Top = 136
+    Width = 58
+    Caption = '5'
+    OnClick = UmClick
+    TabOrder = 5
+  end
+  object Seis: TButton
+    Left = 144
+    Height = 44
+    Top = 136
+    Width = 58
+    Caption = '6'
+    OnClick = UmClick
+    TabOrder = 6
+  end
+  object Sete: TButton
+    Left = 17
+    Height = 44
+    Top = 184
+    Width = 58
+    Caption = '7'
+    OnClick = UmClick
+    TabOrder = 7
+  end
+  object Oito: TButton
+    Left = 80
+    Height = 44
+    Top = 184
+    Width = 58
+    Caption = '8'
+    OnClick = UmClick
+    TabOrder = 8
+  end
+  object Nove: TButton
+    Left = 144
+    Height = 44
+    Top = 184
+    Width = 58
+    Caption = '9'
+    OnClick = UmClick
+    TabOrder = 9
+  end
+  object Zero: TButton
+    Left = 80
+    Height = 44
+    Top = 232
+    Width = 120
+    Caption = '0'
+    OnClick = UmClick
+    TabOrder = 10
+  end
+  object Mais: TButton
+    Left = 216
+    Height = 44
+    Top = 88
+    Width = 58
+    Caption = '+'
+    OnClick = MaisClick
+    TabOrder = 11
+  end
+  object Menos: TButton
+    Left = 216
+    Height = 44
+    Top = 136
+    Width = 58
+    Caption = '-'
+    OnClick = MenosClick
+    TabOrder = 12
+  end
+  object Dividir: TButton
+    Left = 216
+    Height = 44
+    Top = 184
+    Width = 58
+    Caption = '/'
+    OnClick = DividirClick
+    TabOrder = 13
+  end
+  object Multiplicar: TButton
+    Left = 216
+    Height = 44
+    Top = 232
+    Width = 58
+    Caption = '*'
+    OnClick = MultiplicarClick
+    TabOrder = 14
+  end
+  object Maismenos: TButton
+    Left = 280
+    Height = 44
+    Top = 88
+    Width = 58
+    Caption = '+ / -'
+    OnClick = MaismenosClick
+    TabOrder = 15
+  end
+  object Virgula: TButton
+    Left = 280
+    Height = 44
+    Top = 136
+    Width = 58
+    Caption = ','
+    OnClick = VirgulaClick
+    TabOrder = 16
+  end
+  object Igual: TButton
+    Left = 280
+    Height = 92
+    Top = 184
+    Width = 58
+    Caption = '='
+    OnClick = IgualClick
+    TabOrder = 17
+  end
+  object Limpar: TButton
+    Left = 16
+    Height = 44
+    Top = 232
+    Width = 59
+    Caption = 'C'
+    OnClick = LimparClick
+    TabOrder = 18
+  end
+  object Edit1: TEdit
+    Left = 16
+    Height = 23
+    Top = 24
+    Width = 320
+    OnChange = Edit1Change
+    ReadOnly = True
+    TabOrder = 19
+  end
+  object Label1: TLabel
+    Left = 17
+    Height = 15
+    Top = 8
+    Width = 48
+    Caption = 'Historico'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 104
+    Height = 15
+    Top = 288
+    Width = 142
+    Caption = 'By Alan Nascimento - 2019'
+    ParentColor = False
+  end
+end
